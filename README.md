@@ -1,9 +1,16 @@
 <p align="center">⭐ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ BEM VINDO ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ⭐</p>
 
+<h1 align="center">
+  SOBRE MIM <img src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="50">
+</h1>
+<p align="left"> 📌 NAME: GABRIEL</p>
+<p align="left"> 📌 AGE: 17y</p>
+<p align="left"> 📌 STUDENT IN IT COURSE</p>
+
 ##
 
 <h2 align="center">
-  Pac man <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  Pac man <img src="https://media.giphy.com/media/3ov9jYwAZJOhd12jgQ/giphy.gif" width="50">
 </h2>
 
 
