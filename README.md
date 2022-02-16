@@ -1,6 +1,5 @@
 <h1 align="center"⭐ ~ ~ ~ ~ ~ ~ ~ ~ ~ WELCOME ~ ~ ~ ~ ~ ~ ~ ~ ~ ⭐</h1>
 
-<img align="left" src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" height="400" width="1000" > 
 
 <img align="left" src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="60"> <br><br>
 
