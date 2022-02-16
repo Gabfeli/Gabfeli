@@ -48,7 +48,8 @@
 <h2 align="center">
   MY SPACE<img src="https://media.giphy.com/media/kv62qJzsU6LA1b4NGh/giphy.gif" width="70">
 </h2>
-![BraveEasygoingIberianbarbel-size_restricted](https://user-images.githubusercontent.com/93562369/154185949-f0bad44c-d8c9-4496-860a-d760ddd9a927.gif)
+
+<img align="center" src="https://user-images.githubusercontent.com/93562369/154186507-aa8c6dcb-d073-4ad8-ad52-1b6a26fbb607.gif" height="400" width="1200" > <br>
 
 ---
 <h4 align="center">
