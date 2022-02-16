@@ -41,7 +41,14 @@
    <img align="center" alt="Gab-VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
    <img align="center" alt="Gab-dart" height="30" width="30" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png">
 </div>
+<br>
+<br>
+<br>
 
+<h2 align="center">
+  MY SPACE<img src="https://media.giphy.com/media/kv62qJzsU6LA1b4NGh/giphy.gif" width="70">
+</h2>
+![BraveEasygoingIberianbarbel-size_restricted](https://user-images.githubusercontent.com/93562369/154185949-f0bad44c-d8c9-4496-860a-d760ddd9a927.gif)
 
 ---
 <h4 align="center">
