@@ -1,6 +1,14 @@
 
+---
 
-<img align="left" src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" height="400" width="1000" > 
+<img align="center" src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" height="400" width="990" > <br>
+
+
+<h1 align="center">
+ ⭐ ~ ~ ~ ~ ~ ~ ~ ~ WELCOME ~ ~ ~ ~ ~ ~ ~ ~ ⭐
+</h1><br><br><br>
+
+
 <img align="left" src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="60"> <br><br>
 
 <h2 align="center">ABOUT ME</h2>
@@ -13,8 +21,8 @@
 <br>
 
 
-<h3 align="center">
- ⭐ ~ ~ ~ ~ ~ ~ ~ ~ SEE YOU LATER ~ ~ ~ ~ ~ ~ ~ ~ ⭐
-</h3>
-
 ---
+<h4 align="center">
+ ⭐ ~ ~ ~ ~ ~ ~ ~ ~ SEE YOU LATER ~ ~ ~ ~ ~ ~ ~ ~ ⭐
+</h4>
+
