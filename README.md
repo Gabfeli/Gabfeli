@@ -11,7 +11,7 @@
 <h2 align="center">
  ABOUT ME<img src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="40">
 </h2>
-
+<br>
 <img align="right" src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif" height="260" width="260"> <br>
 <p align="left"> 📌 NAME: GABRIEL</p><br>
 <p align="left"> 📌 AGE: 17y</p><br>
@@ -26,9 +26,18 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfeli&hide=html,css,dart&theme=dark">
+  
   <img src = "https://github-readme-stats.vercel.app/api?username=gabrielfeli&show_icons=true&theme=dark&line_height=27">
 </p>
+<div style="display: inline_block"><br>
+ 
+  <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gab-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
+   <img align="center" alt="Gab-VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+</div>
+
+
 ---
 <h4 align="center">
  ⭐ ~ ~ ~ ~ ~ ~ ~ ~ SEE YOU LATER ~ ~ ~ ~ ~ ~ ~ ~ ⭐
