@@ -8,10 +8,10 @@
  ⭐ ~ ~ ~ ~ ~ ~ ~ ~ WELCOME ~ ~ ~ ~ ~ ~ ~ ~ ⭐
 </h1><br><br><br>
 
+<h2 align="center">
+ ABOUT ME<img src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="40">
+</h2>
 
-<img align="left" src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="60"> <br><br>
-
-<h2 align="center">ABOUT ME</h2><br>
 <img align="right" src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif" height="260" width="260"> <br>
 <p align="left"> 📌 NAME: GABRIEL</p><br>
 <p align="left"> 📌 AGE: 17y</p><br>
@@ -19,6 +19,16 @@
 <br>
 <br>
 
+<h2 align="center">
+  MY GITHUB STATS<img src="https://media.giphy.com/media/kv62qJzsU6LA1b4NGh/giphy.gif" width="70">
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfeli&hide=html,css,java,kotlin,hlsl&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gabrielfeli&show_icons=true&theme=dark&line_height=27">
+</p>
 ---
 <h4 align="center">
  ⭐ ~ ~ ~ ~ ~ ~ ~ ~ SEE YOU LATER ~ ~ ~ ~ ~ ~ ~ ~ ⭐
