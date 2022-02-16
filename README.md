@@ -1,19 +1,21 @@
-<p align="center">⭐ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ BEM VINDO ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ⭐</p>
+<h1 align="center"⭐ ~ ~ ~ ~ ~ ~ ~ ~ ~ WELCOME ~ ~ ~ ~ ~ ~ ~ ~ ~ ⭐</h1>
 
-<h1 align="center">
-  SOBRE MIM <img src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="50">
-</h1>
-<p align="left"> 📌 NAME: GABRIEL</p>
-<p align="left"> 📌 AGE: 17y</p>
-<p align="left"> 📌 STUDENT IN IT COURSE</p>
+<img align="left" src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" height="400" width="1000" > 
 
-##
+<img align="left" src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="60"> <br><br>
 
-<h2 align="center">
-  Pac man <img src="https://media.giphy.com/media/3ov9jYwAZJOhd12jgQ/giphy.gif" width="50">
-</h2>
+<h2 align="center">ABOUT ME</h2>
+
+<br>
+<br>
+<p align="left"> 📌 NAME: GABRIEL</p><br>
+<p align="left"> 📌 AGE: 17y</p><br>
+<p align="left"> 📌 STUDENT IN IT COURSE</p><br>
+<br>
 
 
-![main-qimg-a9cb3d62f00833ca6f2b034f5c3669b6](https://user-images.githubusercontent.com/93562369/154137380-cd0f2d72-a10f-4019-a869-73394803a6f3.gif) 
+<h3 align="center">
+ ⭐ ~ ~ ~ ~ ~ ~ ~ ~ SEE YOU LATER ~ ~ ~ ~ ~ ~ ~ ~ ⭐
+</h3>
 
-<p align="center"> ⭐ VOLTE SEMPRE ⭐</p>
+---
