@@ -1,7 +1,7 @@
 
 ---
 
-<img align="center" src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" height="400" width="990" > <br>
+<img align="center" src="https://media.giphy.com/media/RgZFvGuI4OxLjuSvRF/giphy.gif" height="400" width="1200" > <br>
 
 
 <h1 align="center">
@@ -12,10 +12,12 @@
  ABOUT ME<img src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="40">
 </h2>
 <br>
+<br>
 <img align="right" src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif" height="260" width="260"> <br>
 <p align="left"> 📌 NAME: GABRIEL</p><br>
 <p align="left"> 📌 AGE: 17y</p><br>
-<p align="left"> 📌 STUDENT IN IT COURSE</p><br>
+<p align="left"> 📌 STUDENT IN IT COURSE <a href="https://epsa.com.br" target="_blank"> ESCOLA PROFISSIONALIZANTE SANTO AUGOSTINHO</a>
+ </p><br>
 <br>
 <br>
 
@@ -25,9 +27,11 @@
  
 <br>
 
+
 <p align = "center">
   
   <img src = "https://github-readme-stats.vercel.app/api?username=gabrielfeli&show_icons=true&theme=dark&line_height=27">
+ <img align="left" src="https://media.giphy.com/media/3o751WjH5IbiLBJMxW/giphy.gif" height="230" width="230"> <br>
 </p>
 <div style="display: inline_block"><br>
  
