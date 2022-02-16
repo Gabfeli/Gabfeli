@@ -45,13 +45,43 @@
 <br>
 <br>
 
+
+
+---
+
+
+
+<h1 align="center">
+  THIGS FOR I LIKE<img src="https://media.giphy.com/media/SYEziEH0uxVB62A9ml/giphy.gif" width="70">
+</h1>
+
 <h2 align="center">
-  MY SPACE<img src="https://media.giphy.com/media/kv62qJzsU6LA1b4NGh/giphy.gif" width="70">
+  GAMES<img src="https://media.giphy.com/media/l378yjDKofRszKaAw/giphy.gif" width="70">
 </h2>
 
 <img align="center" src="https://user-images.githubusercontent.com/93562369/154186507-aa8c6dcb-d073-4ad8-ad52-1b6a26fbb607.gif" height="400" width="1200" > <br>
 
+<img align="left" src="https://media.giphy.com/media/1Ctu1BCYf21we9tRmT/giphy.gif" height="400" width="400"> <br>
+<img align="right" src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif" height="400" width="400"> <br>
+
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+
+
+
+
+<h2 align="center">
+  ANIMES<img src="https://media.giphy.com/media/l378yjDKofRszKaAw/giphy.gif" width="70">
+</h2>
+
+<br><br><br><br><br><br><br><br><br>
+
+
+<img align="right" src="
+https://media.giphy.com/media/AsvEmVkAkQE7e/giphy.gif" height="400" width="400"> <br>
+
 ---
+
 <h4 align="center">
  ⭐ ~ ~ ~ ~ ~ ~ ~ ~ SEE YOU LATER ~ ~ ~ ~ ~ ~ ~ ~ ⭐
 </h4>
