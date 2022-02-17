@@ -31,7 +31,10 @@
 <p align = "center">
   
   <img src = "https://github-readme-stats.vercel.app/api?username=gabfeli&show_icons=true&theme=dark&line_height=27">
- <img align="left" src="https://media.giphy.com/media/3o751WjH5IbiLBJMxW/giphy.gif" height="230" width="230"> <br>
+ <img align="left" src="https://media.giphy.com/media/3o751WjH5IbiLBJMxW/giphy.gif" height="290" width="290"> <br><br><br>
+<br>
+<br>
+<p aling = "left">I WORK WITH</p>
 </p>
 <div style="display: inline_block"><br>
  
@@ -40,7 +43,6 @@
   <img align="center" alt="Gab-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
    <img align="center" alt="Gab-VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
    <img align="center" alt="Gab-dart" height="30" width="30" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png">
-    <img align="center" alt="Gab-dart" height="30" width="30" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png">
  <img align="center" alt="Gab-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Gab-CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
