@@ -20,6 +20,8 @@
  </p><br>
  
 <p>
+  <img align="left" alt="" height="150" style="border-radius:50px;"src="https://share-cdn.picrew.me/shareImg/org/202202/338224_F8why8xi.png"/>
+</div>
  ● I HAVE A COURSE IN ENGLISH AND I CAN LISTEN AND TALK TO SIMPLE THINGS.<br>
  ● MY DREAM IS TO BE A SYSTEM ANALYST AND I WILL BE WILLING TO STUDY UNTIL I REACH THAT DREAM.<br>
  ● CURRENTLY WORKING HALF-TIME IN THE <a href="http://www.der.mg.gov.br/" target="_blank"> DER</a>.<br>
