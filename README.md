@@ -18,13 +18,17 @@
 <p align="left"> 📌 FRONT-END <3</p><br>
 <p align="left"> 📌 STUDENT IN IT COURSE <a href="https://epsa.com.br" target="_blank"> ESCOLA PROFISSIONALIZANTE SANTO AUGOSTINHO</a>
  </p><br>
- 
+ <br><br>
 <p>
-  <img align="left" alt="" height="150" style="border-radius:50px;"src="https://share-cdn.picrew.me/shareImg/org/202202/338224_F8why8xi.png"/>
+ <br>
+ <br>
+ <br>
+  <img align="left" alt="GABZIN" height="160" style="border-radius:50px;"src="https://user-images.githubusercontent.com/93562369/154558149-324e8626-d9a2-4f65-8220-3e9c186da703.png"/>
 </div>
- ● I HAVE A COURSE IN ENGLISH AND I CAN LISTEN AND TALK TO SIMPLE THINGS.<br>
- ● MY DREAM IS TO BE A SYSTEM ANALYST AND I WILL BE WILLING TO STUDY UNTIL I REACH THAT DREAM.<br>
- ● CURRENTLY WORKING HALF-TIME IN THE <a href="http://www.der.mg.gov.br/" target="_blank"> DER</a>.<br>
+
+ ● I HAVE A COURSE IN ENGLISH AND I CAN LISTEN AND TALK TO SIMPLE THINGS.<br><br>
+ ● MY DREAM IS TO BE A SYSTEM ANALYST AND I WILL BE WILLING TO STUDY UNTIL I REACH THAT DREAM.<br><br>
+ ● CURRENTLY WORKING HALF-TIME IN THE <a href="http://www.der.mg.gov.br/" target="_blank"> DER</a>.<br><br>
  ● I HAVE A COURSE IN GRAPHIC DESIGN AND WEB DESIGN AT <a href="https://megabitinformatica.com.br/" target="_blank"> MEGA BIT</a>.<br>
 </p>
 <br>
