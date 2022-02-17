@@ -5,28 +5,32 @@
 
 
 <h1 align="center">
- ⭐ ~ ~ ~ ~ ~ ~ ~ ~ WELCOME ~ ~ ~ ~ ~ ~ ~ ~ ⭐
+ ⭐ WELCOME ⭐
 </h1><br><br><br>
 
-<h2 align="center">
+<h2 align="left">
  ABOUT ME<img src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="40">
 </h2>
 <br>
-<br>
-<img align="right" src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif" height="260" width="260"> <br>
+<img align="right" src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif" height="260" width="260">
 <p align="left"> 📌 NAME: GABRIEL</p><br>
 <p align="left"> 📌 AGE: 17y</p><br>
+<p align="left"> 📌 FRONT-END <3</p><br>
 <p align="left"> 📌 STUDENT IN IT COURSE <a href="https://epsa.com.br" target="_blank"> ESCOLA PROFISSIONALIZANTE SANTO AUGOSTINHO</a>
  </p><br>
+ 
+<p>
+I HAVE A COURSE IN ENGLISH AND I CAN LISTEN AND TALK TO SIMPLE THINGS<br>
+MY DREAM IS TO BE A SYSTEM ANALYST AND I WILL BE WILLING TO STUDY UNTIL I REACH THAT DREAM<br>
+CURRENTLY WORKING HALF-TIME IN THE <a href="http://www.der.mg.gov.br/" target="_blank"> DER
+</p>
 <br>
 <br>
 
-<h2 align="center">
+<h2 align="left">
   MY GITHUB STATS<img src="https://media.giphy.com/media/kv62qJzsU6LA1b4NGh/giphy.gif" width="70">
 </h2>
  
-<br>
-
 
 <p align = "center">
   
@@ -57,7 +61,7 @@
 
 
 
-<h1 align="center">
+<h1 align="left">
   CELESTE<img src="https://media.giphy.com/media/SYEziEH0uxVB62A9ml/giphy.gif" width="70">
 </h1>
 
