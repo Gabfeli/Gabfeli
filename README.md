@@ -45,7 +45,7 @@
  <img align="left" src="https://media.giphy.com/media/3o751WjH5IbiLBJMxW/giphy.gif" height="290" width="290"> <br><br><br>
 <br>
 <br>
-<p aling = "left">I WORK WITH</p>
+<p aling = "left">TRABALHO COM:</p>
 </p>
 <div style="display: inline_block"><br>
  
@@ -63,13 +63,8 @@
 <br>
 
 
-
 ---
 
-
-
-
----
 
 <h4 align="center">
  ⭐ ~ ~ ~ ~ ~ ~ ~ ~ ATÉ MAIS ~ ~ ~ ~ ~ ~ ~ ~ ⭐
