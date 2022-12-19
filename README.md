@@ -5,18 +5,17 @@
 
 
 <h1 align="center">
- ⭐ WELCOME ⭐
+ ⭐ BEM VINDO ⭐
 </h1><br><br><br>
 
 <h2 align="left">
- ABOUT ME<img src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="40">
+ SOBRE MIM<img src="https://media.giphy.com/media/WmoKCIXiXQPPRLVQXE/giphy.gif" width="40">
 </h2>
 <br>
 <img align="right" src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif" height="260" width="260">
-<p align="left"> 📌 NAME: GABRIEL</p><br>
-<p align="left"> 📌 AGE: 17y</p><br>
+<p align="left"> 📌 NOME: GABRIEL</p><br>
+<p align="left"> 📌 IDADE: 18</p><br>
 <p align="left"> 📌 FRONT-END <3</p><br>
-<p align="left"> 📌 STUDENT IN IT COURSE <a href="https://epsa.com.br" target="_blank"> ESCOLA PROFISSIONALIZANTE SANTO AUGOSTINHO</a>
  </p><br>
  <br><br>
 <p aling= "Center">
@@ -70,9 +69,6 @@
 
 
 
-<h1 align="left">
-  CELESTE<img src="https://media.giphy.com/media/SYEziEH0uxVB62A9ml/giphy.gif" width="70">
-</h1>
 
 <img align="center" src="https://user-images.githubusercontent.com/93562369/154186507-aa8c6dcb-d073-4ad8-ad52-1b6a26fbb607.gif" height="400" width="1200" > <br>
 
@@ -81,6 +77,6 @@
 ---
 
 <h4 align="center">
- ⭐ ~ ~ ~ ~ ~ ~ ~ ~ SEE YOU LATER ~ ~ ~ ~ ~ ~ ~ ~ ⭐
+ ⭐ ~ ~ ~ ~ ~ ~ ~ ~ ATÉ MAIS ~ ~ ~ ~ ~ ~ ~ ~ ⭐
 </h4>
 
