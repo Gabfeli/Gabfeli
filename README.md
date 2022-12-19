@@ -26,11 +26,10 @@
   <img align="left" alt="GABZIN" height="200" style="border-radius:50px;"src="https://user-images.githubusercontent.com/93562369/154558149-324e8626-d9a2-4f65-8220-3e9c186da703.png"/>
 </div>
 
- ● I HAVE A COURSE IN ENGLISH AND I CAN LISTEN AND TALK TO SIMPLE THINGS.<br><br>
- ● I AM A GAMER TOO, LOL/CS-GO :D<br><br>
- ● MY DREAM IS TO BE A SYSTEM ANALYST AND I WILL BE WILLING TO STUDY UNTIL I REACH THAT DREAM.<br><br>
- ● CURRENTLY WORKING HALF-TIME IN THE <a href="http://www.der.mg.gov.br/" target="_blank"> DER</a>.<br><br>
- ● I HAVE A COURSE IN GRAPHIC DESIGN AND WEB DESIGN AT <a href="https://megabitinformatica.com.br/" target="_blank"> MEGA BIT</a>.<br>
+ ● JOGADOR DE LEAGUE OF LEGENDS <br><br>
+ ● SEMPRE APOIANDO À TODOS <br><br>
+ ● ATUALMENTE ESTÁGIANDO EM <a href="http://www.der.mg.gov.br/" target="_blank"> DER</a>.<br><br>
+ ● CURSO DE DESIGN GRÁFICO E INGLÊS NA <a href="https://megabitinformatica.com.br/" target="_blank"> MEGA BIT</a>.<br>
 </p>
 <br>
 <br>
@@ -67,10 +66,6 @@
 
 ---
 
-
-
-
-<img align="center" src="https://user-images.githubusercontent.com/93562369/154186507-aa8c6dcb-d073-4ad8-ad52-1b6a26fbb607.gif" height="400" width="1200" > <br>
 
 
 
